@@ -1,0 +1,7 @@
+{
+  "name": "cpu-scheduling",
+  "private": true,
+  "scripts": {
+    "test": "node tests/algorithms.cjs"
+  }
+}
